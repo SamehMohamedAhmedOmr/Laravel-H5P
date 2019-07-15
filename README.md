@@ -15,7 +15,7 @@
 Require it in the Composer.
 
 ```bash
-composer require djoudi/laravel-h5p
+composer require samehmohamedahmedomr/laravel-h5p
 ```
 
 Publish the Views, Config and so things.
