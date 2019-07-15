@@ -3,7 +3,7 @@
     "description": "H5P Plugin for laravel platform",
     "type": "library",
     "authors": [
-        {
+        
             "name": "Abdelouahab Djoudi",
             "email": "info@djoudi.net"
         }
